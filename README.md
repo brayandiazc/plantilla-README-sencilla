@@ -67,7 +67,7 @@ Y así sucesivamente...
 # paso 2
 ```
 
-## Credenciales de Acceso según Tipo de Usuario luego de Cargar los Datos Semilla
+## Credenciales de Acceso
 
 ### Para Usuario Tipo Administrador
 
@@ -83,13 +83,13 @@ Y así sucesivamente...
 
 - [Brayan Diaz C](https://github.com/brayandiazc)
 
-## Licencia 📄
+## Licencia
 
 Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE.md](LICENSE) para detalles
 
 ---
 
-## Consejos Adicionales 📝
+## Consejos Adicionales
 
 Aquí hay algunos consejos extra para aprovechar al máximo tu README:
 
