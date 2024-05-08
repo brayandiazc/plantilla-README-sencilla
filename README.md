@@ -58,7 +58,13 @@ Instrucciones necesario para cargar la base de datos o migrar los modelos de dat
 Comandos necesario para cargar los datos semilla a la base de datos.
 
 ```bash
-#
+# paso 1
+```
+
+Y así sucesivamente...
+
+```bash
+# paso 2
 ```
 
 ## Credenciales de Acceso según Tipo de Usuario luego de Cargar los Datos Semilla
@@ -87,12 +93,9 @@ Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE.md](LICENSE) p
 
 Aquí hay algunos consejos extra para aprovechar al máximo tu README:
 
-- Mantén cada sección lo más concisa posible. Evita la pelusa innecesaria, ya que puede ser abrumadora para el lector.
-- Asegúrate de que tus instrucciones de instalación, pruebas y despliegue sean detalladas y precisas. Si hay pasos adicionales que el lector necesita tomar (como instalar dependencias extra), asegúrate de incluirlos.
+- Mantén cada sección lo más concisa posible. Evita la información innecesaria, ya que puede ser abrumadora para el lector.
+- Asegúrate de que tus instrucciones de instalación, despliegue sean detalladas y precisas. Si hay pasos adicionales que el lector necesita tomar (como instalar dependencias extra), asegúrate de incluirlos.
 - Los visuales (imágenes, GIFs) son muy útiles para transmitir rápidamente lo que hace tu proyecto y cómo usarlo. Si puedes, incluye capturas de pantalla de tu aplicación en acción o GIFs que demuestren su uso.
-- El tono amigable y acogedor que usas en tu README es excelente. Ayuda a hacer tu proyecto más acogedor para los colaboradores.
-
-Recuerda, un buen README es crucial para hacer que tu proyecto sea atractivo y accesible para otros desarrolladores. ¡Buena suerte con tu proyecto!
 
 ---
 
